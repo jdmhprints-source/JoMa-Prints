@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  background: white;
+  margin: 1rem;
+  padding: 1.5rem;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.3rem;
+}
+
+button {
+  margin-top: 1.2rem;
+  padding: 0.7rem;
+  font-size: 1rem;
+}
